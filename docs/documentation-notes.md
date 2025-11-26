@@ -1,0 +1,21 @@
+---
+title: Documentation Notes
+---
+
+This file explains why each documentation section exists and what skill it demonstrates.
+
+_This is for recruiters who will be using this documentation to evaluate my documentation systems thinking, UX awareness, developer empathy, scalability mindset and real-world practice. It will not be in a production ready docs. Remove this file if you will be using this scaffold for your real project._
+
+### Intro
+
+Purpose: This section helps you get started by covering:
+
+- Setting up the development environment
+- Understanding protocol internals
+- Running test networks
+- Integrating with SDKs and JSON-RPC
+- Contributing to the project
+
+### Getting Started
+
+Purpose: Reduce time-to-first-action for new users and provide a smooth onboarding experience.

@@ -20,7 +20,3 @@ NexaNet is an optimistic Layer‑2 for EVM-compatible chains that uses a lightwe
 - [Developer Guide](./dev-guide.md)
 - [API Reference](./api-reference.md)
 - [Contributing](./contributing.md)
-
-### What this docs prove
-
-This documentation shows how to setup the dev environment, understand the protocol internals, run testnets, integrate via SDKs and JSON‑RPC, and how to contribute.

@@ -4,7 +4,7 @@ title: Getting Started
 
 # Getting Started with NexaNet
 
-Quick checklist:
+You should have the following installed:
 
 - [ ] Node >= 18 LTS
 - [ ] Yarn or npm
@@ -33,7 +33,7 @@ npm install
 
 ### 3. Start local testnet (docker-compose)
 
-Create a `docker-compose.yml` that runs `nexanet-node` and `relayer` and then start:
+Your [docker-compose.yml](./docker-compose.yml) should run `nexanet-node` and `relayer` start by running:
 
 ```bash
 docker-compose up --build
