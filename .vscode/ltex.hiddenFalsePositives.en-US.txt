@@ -1,0 +1,4 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNexaNet is composed of the following major components:\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QRelayer — submits batch proofs (or commitments) to the root chain.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QLight Client — for mobile/dApp usage that trusts commitments plus minimal zk checks.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QLight Client — for mobile/DApp usage that trusts commitments plus minimal ZK checks.\\E$"}

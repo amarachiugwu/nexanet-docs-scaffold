@@ -19,3 +19,7 @@ Purpose: This section helps you get started by covering:
 ### Getting Started
 
 Purpose: Reduce time-to-first-action for new users and provide a smooth onboarding experience.
+
+### Architecture
+
+Purpose: Give readers a high-level and mid-level roadmap of components, responsibilities, and the transaction lifecycle.
