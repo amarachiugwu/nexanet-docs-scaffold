@@ -39,3 +39,7 @@ Purpose: Provide a searchable reference for common errors and their solutions.
 ### Change Log
 
 Purpose: Document version history, feature additions, bug fixes, and breaking changes.
+
+### Contributing
+
+Purpose: Guide contributors through the process of submitting changes and maintaining code quality.
