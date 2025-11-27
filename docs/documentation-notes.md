@@ -35,3 +35,7 @@ Purpose: Provide a usable, searchable reference for the JSON-RPC and SDK surface
 ### Troubleshooting
 
 Purpose: Provide a searchable reference for common errors and their solutions.
+
+### Change Log
+
+Purpose: Document version history, feature additions, bug fixes, and breaking changes.

@@ -12,3 +12,5 @@ OpenAPI
 TypeDoc
 relayer
 resync
+changelog
+Changelog
