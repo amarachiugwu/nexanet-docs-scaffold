@@ -10,3 +10,5 @@ DApp
 Params
 OpenAPI
 TypeDoc
+relayer
+resync

@@ -31,3 +31,7 @@ Purpose: Give developers everything they need to code, debug, test and integrate
 ### API Reference
 
 Purpose: Provide a usable, searchable reference for the JSON-RPC and SDK surface.
+
+### Troubleshooting
+
+Purpose: Provide a searchable reference for common errors and their solutions.
