@@ -8,7 +8,7 @@ _This is for recruiters who will be using this documentation to evaluate my docu
 
 ### Intro
 
-Purpose: This section helps you get started by covering:
+Purpose: This section helps readers get started by covering:
 
 - Setting up the development environment
 - Understanding protocol internals
@@ -27,3 +27,7 @@ Purpose: Give readers a high-level and mid-level roadmap of components, responsi
 ### Dev Guide
 
 Purpose: Give developers everything they need to code, debug, test and integrate reliably.
+
+### API Reference
+
+Purpose: Provide a usable, searchable reference for the JSON-RPC and SDK surface.

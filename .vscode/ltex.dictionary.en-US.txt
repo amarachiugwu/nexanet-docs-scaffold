@@ -7,3 +7,6 @@ NexaNet
 Relayer
 mempool
 DApp
+Params
+OpenAPI
+TypeDoc
